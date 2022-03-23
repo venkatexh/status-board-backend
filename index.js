@@ -10,6 +10,7 @@ const corsOptions = {
   origin: [
     "http://localhost:3000",
     "https://fanciful-sunflower-c65b57.netlify.app/",
+    "https://netlify.app",
   ],
   methods: ["GET", "POST", "PUT", "DELETE"],
 };
